@@ -1,6 +1,6 @@
 # Marvel
 
- * Marvel Movie Ratings | Python, Pandas,plotly,numPy,Jupyter NoteBook
+ * Marvel Movie Ratings | Python, Pandas,plotly,Numpy,Jupyter NoteBook
 October 2024 - December 2024
 
 Combined, cleaned, and prepared data from multiple sources, resolving missing data issues to ensure
