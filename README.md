@@ -12,5 +12,7 @@ Conducted correlation and regression modeling to uncover trends in entertainment
 Analyzed inflation-adjusted budgets and box office revenues, revealing their strong influence on 
      Rotten Tomato scores, and provided strategic insights for optimizing production decisions
 
+Marvel_FinalProject.ipynb
+
 ## Final Deliverable
 https://docs.google.com/presentation/d/1Yp6M9xX5e-lj_5mHghE1mP996olHWny4RnByP7QRtnM/edit?usp=sharing
